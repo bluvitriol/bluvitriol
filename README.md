@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)](https://rishavchanda.io)
+[![MasterHead](https://cdn.artstation.com/p/thumbnails/000/944/637/thumb.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Valentina Sharma</h1>
 <h3 align="center">A passionate frontend developer from Delhi, India.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
