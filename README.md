@@ -1,11 +1,11 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6SZ9U1viTe6tLObRT8cidqsoNUPPgbNScLh3RfFdIVQ&s)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Valentina Sharma</h1>
 <h3 align="center">A passionate frontend developer from Delhi, India.</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/f1fda747f5a98bd05731c9cdf5d7d1ab/e8f680018964392e-91/s500x750/c1b3dad0df49e318a7687abd2cdd6b3e30d09198.gifv">
+<img align="right" alt="Coding" width="300" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluvitriol&label=Profile%20views&color=0e75b6&style=flat" alt="bluvitriol" /> </p>
 
-- 🔭 I’m currently working on **GREY(e-commerce website)**
+- 🔭 I’m currently working on **GREY website**
 
 - 🌱 I’m currently learning **Node.js, React**
 
