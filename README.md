@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluvitriol&label=Profile%20views&color=0e75b6&style=flat" alt="bluvitriol" /> </p>
 
-- 🔭 I’m currently working on **GREY website**
+- 🔭 I’m currently working on **a Data Science project**
 
 - 🌱 I’m currently learning **Node.js, React**
 
