@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluvitriol&label=Profile%20views&color=0e75b6&style=flat" alt="bluvitriol" /> </p>
 
-- 🔭 I’m currently working on a **Data Science project**
+- 🔭 I’m currently working on a **Data Analytics project**
 
-- 🌱 I’m currently learning **Node.js, React**
+- 🌱 I’m currently learning **Data Science and AI/ML**
 
-- 💬 Ask me about **Python, HTML, CSS, JS**
+- 💬 Ask me about **Python, Data Analysis, Frontend Development**
 
 - 📫 How to reach me **valentinas9944@gmail.com**
 
-- ⚡ Fun fact **I can sing and play guitar too!**
+- ⚡ Fun fact **I sing and play guitar too!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
