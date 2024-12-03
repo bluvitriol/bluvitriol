@@ -1,11 +1,11 @@
 ![WhatsApp Image 2024-05-30 at 5 17 04 PM](https://github.com/bluvitriol/bluvitriol/assets/158440320/948b906c-59e5-4720-9117-cf7191bd4956)
 <h1 align="center">Hi 👋, I'm Valentina Sharma</h1>
-<h3 align="center">A passionate frontend developer from Delhi, India.</h3>
+<h3 align="center">A passionate Data Analyst and Frontend Developer from Delhi, India.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluvitriol&label=Profile%20views&color=0e75b6&style=flat" alt="bluvitriol" /> </p>
 
-- 🔭 I’m currently working on a **Data Analytics project**
+- 🔭 I’m currently working on a **Data Science project**
 
 - 🌱 I’m currently learning **Data Science and AI/ML**
 
