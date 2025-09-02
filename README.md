@@ -15,7 +15,7 @@
 
 <!-- - 📫 Reach out to me at **valentinas9944@gmail.com**-->
 
-<h3 align="left">feel free to connect on:</h3>
+<h3 align="left">feel free to reach out:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/valentinasharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/valentinasharma" height="30" width="40" /></a>
 <a href="mailto:valentinas9944@gmail.com" target="blank"><img align="center" src="email_873388.png" alt="mailto:valentinas9944@gmail.com" height="30" width="30" /></a>
