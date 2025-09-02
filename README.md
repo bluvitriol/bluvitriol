@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **valentinas9944@gmail.com**
 
-- ⚡ Fun fact **I sing and play guitar too!**
+- ⚡ Fun fact **I'm a hobbyist singer & guitarist!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
