@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluvitriol&label=Profile%20views&color=0e75b6&style=flat" alt="bluvitriol" /> </p>
 
-- 🔭 I’m a former **Data Science Intern**
+- I’m a former **Data Science Intern**
 
-- 🌱 I’m currently learning **AI/ML**
+- I’m currently learning **AI/ML**
 
-- 💬 Ask me about **Data Science, Machine Learning & Software Development**
+- Ask me about **Data Science, Machine Learning & Software Development**
 
-- ⚡ fun fact? **I'm a hobbyist singer & guitarist ;)**
+- fun fact? **I'm a hobbyist singer & guitarist ;)**
 
 <!-- - 📫 Reach out to me at **valentinas9944@gmail.com**-->
 
