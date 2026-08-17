@@ -1,11 +1,12 @@
-<!-- ![WhatsApp Image 2024-05-30 at 5 17 04 PM](https://github.com/bluvitriol/bluvitriol/assets/158440320/948b906c-59e5-4720-9117-cf7191bd4956)-->
+<!--![WhatsApp Image 2024-05-30 at 5 17 04 PM](https://github.com/bluvitriol/bluvitriol/assets/158440320/948b906c-59e5-4720-9117-cf7191bd4956)-->
+<!-- <img align="centre" alt="Coding" height="500" src="https://github.com/bluvitriol/bluvitriol/assets/158440320/948b906c-59e5-4720-9117-cf7191bd4956"> -->
 <h1 align="center">Hi, I'm Valentina!</h1>
 <h3 align="center">A dedicated Data Scientist in India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluvitriol&label=Profile%20views&color=0e75b6&style=flat" alt="bluvitriol" /> </p>
 
-- I’m a former **Data Science Intern**
+<!-- - - I’m a former **Data Science Intern**-->
 
 - I’m currently learning **AI/ML**
 
